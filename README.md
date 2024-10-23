@@ -6,9 +6,13 @@ Diabetes is a significant health concern worldwide, and understanding the factor
 
 # Technologies Used
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
 # Approach
